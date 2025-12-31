@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Mr.Lonely",
+  "base_artist": "shino",
+  "createdAt": "2025-12-31T12:56:37.541741Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Lonely",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/01_Mr._Lonely_Midland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr. Lonely",
+      "artist": "Hana Vu",
+      "has_synced": true,
+      "path": "select/02_Mr._Lonely_Hana_Vu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mr. Lonely",
+      "artist": "Bobby Vinton",
+      "has_synced": true,
+      "path": "select/03_Mr._Lonely_Bobby_Vinton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mr. Lonely (Single Version)",
+      "artist": "Bobby Vinton",
+      "has_synced": true,
+      "path": "select/04_Mr._Lonely_(Single_Version)_Bobby_Vinton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "911 / Mr. Lonely (feat. Frank Ocean and Steve Lacy)",
+      "artist": "Tyler, The Creator feat. Frank Ocean & Steve Lacy",
+      "has_synced": true,
+      "path": "select/05_911___Mr._Lonely_(feat._Frank_Ocean_and_Steve_Lacy)_Tyler,_The_Creator_feat._Frank_Ocean_&_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "911 \u0000 Mr. Lonely",
+      "artist": "Tyler, The Creator, Steve Lacy, Frank Ocean",
+      "has_synced": true,
+      "path": "select/06_911_\u0000_Mr._Lonely_Tyler,_The_Creator,_Steve_Lacy,_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+      "artist": "Tyler, The Creator, Frank Ocean, Steve Lacy",
+      "has_synced": true,
+      "path": "select/07_911___Mr._Lonely_(feat._Frank_Ocean_&_Steve_Lacy)_Tyler,_The_Creator,_Frank_Ocean,_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mr Lonely (feat. Fat Lip)",
+      "artist": "Portugal. The Man feat. Fatlip",
+      "has_synced": true,
+      "path": "select/08_Mr_Lonely_(feat._Fat_Lip)_Portugal._The_Man_feat._Fatlip.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mr. Lonely (feat. Fat Lip)",
+      "artist": "Portugal. The Man, Fat Lip",
+      "has_synced": true,
+      "path": "select/09_Mr._Lonely_(feat._Fat_Lip)_Portugal._The_Man,_Fat_Lip.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mr. Lonely",
+      "artist": "Bobby Vinton",
+      "has_synced": true,
+      "path": "select/10_Mr._Lonely_Bobby_Vinton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mr Lonely",
+      "artist": "Portugal. The Man feat. Fat Lip",
+      "has_synced": true,
+      "path": "select/11_Mr_Lonely_Portugal._The_Man_feat._Fat_Lip.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mr Lonely",
+      "artist": "Portugal The Man",
+      "has_synced": true,
+      "path": "select/12_Mr_Lonely_Portugal_The_Man.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey There, Mr. Lonely Heart",
+      "artist": "John Denver",
+      "has_synced": false,
+      "path": "select/13_Hey_There,_Mr._Lonely_Heart_John_Denver.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mr. Lonely Man",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/14_Mr._Lonely_Man_Chris_Isaak.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mr. Lonely",
+      "artist": "Bobby Vinton",
+      "has_synced": true,
+      "path": "select/15_Mr._Lonely_Bobby_Vinton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+      "artist": "Tyler, The Creator feat. Frank Ocean & Steve Lacy",
+      "has_synced": true,
+      "path": "select/16_911___Mr._Lonely_(feat._Frank_Ocean_&_Steve_Lacy)_Tyler,_The_Creator_feat._Frank_Ocean_&_Steve_Lacy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "911 / Mr. Lonely",
+      "artist": "Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/17_911___Mr._Lonely_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mr.Lonely (feat. 初音ミク)",
+      "artist": "shino",
+      "has_synced": false,
+      "path": "select/pl_01_Mr.Lonely_(feat._初音ミク)_shino.txt"
+    }
+  ]
+}
